@@ -1,4 +1,5 @@
 import useGetPhones from "../../Hooks/useGetPhones";
+import SpecitalPhone from "../SpecitalPhone/SpecitalPhone";
 import PhonesCard from "./PhonesCard";
 
 const Phones = ({phones}) => {
@@ -18,6 +19,7 @@ const Phones = ({phones}) => {
                 ></PhonesCard>)
             }
            </div>
+           <SpecitalPhone></SpecitalPhone>
         </div>
     );
 };
