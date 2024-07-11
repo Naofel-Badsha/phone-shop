@@ -1,0 +1,124 @@
+[
+    {
+        "id": 1,
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg",
+        "phone_name": "Galaxy S21",
+        "brand_name": "Samsung",
+        "price": 799.99,
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro.jpg",
+        "phone_name": "iPhone 13",
+        "brand_name": "Apple",
+        "price": 999.99,
+        "rating": 4.8
+    },
+    {
+        "id": 3,
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg",
+        "phone_name": "Pixel 6",
+        "brand_name": "Google",
+        "price": 699.99,
+        "rating": 4.7
+    },
+    {
+        "id": 4,
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg",
+        "phone_name": "OnePlus 9",
+        "brand_name": "OnePlus",
+        "price": 729.99,
+        "rating": 4.6
+    },
+    {
+        "id": 5,
+        "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro-max-.jpg",
+        "phone_name": "Xperia 5 III",
+        "brand_name": "Sony",
+        "price": 899.99,
+        "rating": 4.3
+    },
+    {
+        "id": 6,
+        "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro--.jpg",
+        "phone_name": "Mi 11",
+        "brand_name": "Xiaomi",
+        "price": 749.99,
+        "rating": 4.4
+    },
+    {
+        "id": 7,
+        "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12.jpg",
+        "phone_name": "P50 Pro",
+        "brand_name": "Huawei",
+        "price": 999.99,
+        "rating": 4.2
+    },
+    {
+        "id": 8,
+        "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-mini.jpg",
+        "phone_name": "Nokia 8.3",
+        "brand_name": "Nokia",
+        "price": 649.99,
+        "rating": 4.1
+    },
+    {
+        "id": 9,
+        "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-se-2020.jpg",
+        "phone_name": "Moto G Power",
+        "brand_name": "Motorola",
+        "price": 249.99,
+        "rating": 4.0
+    },
+    {
+        "id": 10,
+        "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro.jpg",
+        "phone_name": "Redmi Note 10",
+        "brand_name": "Xiaomi",
+        "price": 199.99,
+        "rating": 4.3
+    },
+    {
+        "id": 11,
+        "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro-max-.jpg",
+        "phone_name": "Realme GT",
+        "brand_name": "Realme",
+        "price": 599.99,
+        "rating": 4.4
+    },
+
+
+    {
+        "id": 12,
+        "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11.jpg",
+        "phone_name": "Asus ROG Phone 5",
+        "brand_name": "Asus",
+        "price": 919.99,
+        "rating": 4.7
+    },
+    {
+        "id": 13,
+        "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-max-new1.jpg",
+        "phone_name": "Asus ROG Phone 5",
+        "brand_name": "realmi",
+        "price": 939.99,
+        "rating": 4.7
+    },
+    {
+        "id": 14,
+        "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xr-new.jpg",
+        "phone_name": "Asus ROG Phone 5",
+        "brand_name": "Xiomi",
+        "price": 949.99,
+        "rating": 4.7
+    },
+    {
+        "id": 15,
+        "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-new.jpg",
+        "phone_name": "Asus ROG Phone 5",
+        "brand_name": "Oppo",
+        "price": 959.99,
+        "rating": 4.7
+    }
+]
